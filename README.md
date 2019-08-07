@@ -5,4 +5,4 @@ various topics pertaining to _Computer Science_.
 
 ## Classes
 
-* [CISW 410: Middleware Web Scripting](cisw410.md)
+* [CISW 410: Middleware Web Scripting](cisw410/README.md)
