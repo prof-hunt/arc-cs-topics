@@ -39,4 +39,4 @@ Upon completion of this course, the student will be able to:
 
 ## Topics
 
-* [Overview of the class](001-overview.md)
+* See the [List of Topics](000-topic-list.md)
