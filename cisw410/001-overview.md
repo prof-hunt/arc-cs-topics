@@ -21,6 +21,8 @@ Topics will include:
   a database-driven, interactive web application
 * ...and more...
 
+See the [Topic List](000-topic-list.md) for more detail.
+
 
 ## Course Textbook
 
