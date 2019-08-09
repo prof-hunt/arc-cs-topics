@@ -36,11 +36,38 @@ Here is a checklist of the things needed to set up the environment.
     * Server-side JavaScript Engine
     * Version v10.15.2
 * NPM - Node Package Manager
-* Installed Node Modules:
+* Installed Node Modules
     * `express` - Express
     * `express-handlebars` - Handlebars (templating engine)
+    * `sqlite3` - SQLite relational database integration
     * `mocha` - Unit testing framework (dev)
     * `chai` - Assertions library (dev)
+    * `zombie` - Headless browser library (dev)
+* Sample package.json:
+```
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "repository": "none",
+  "description": "Movie Database Project Website",
+  "main": "moviedb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prof.Hunt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "sqlite3": "^4.0.9"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "zombie": "^6.1.4"
+  }
+}
+```
 
 
 ## Topics
